@@ -134,10 +134,10 @@
                <top>
                   <ToolBar prefHeight="40.0" prefWidth="200.0" BorderPane.alignment="CENTER">
                     <items>
-                      <Button mnemonicParsing="false" onAction="#ordenarPorNota" prefHeight="25.0" prefWidth="137.0" text="Nota" />
-                        <Button mnemonicParsing="false" onAction="#ordenarPorGenero" prefHeight="25.0" prefWidth="142.0" text="Categoria" />
-                        <Button mnemonicParsing="false" onAction="#ordenarPorTitulo" prefHeight="25.0" prefWidth="148.0" text="Título" />
-                        <Button mnemonicParsing="false" onAction="#ordenarPorZerado" prefHeight="25.0" prefWidth="156.0" text="Zerado" />
+                      <Button mnemonicParsing="false" onAction="#ordenarPorNota" prefHeight="25.0" prefWidth="120.0" text="Nota" />
+                        <Button mnemonicParsing="false" onAction="#ordenarPorGenero" prefHeight="25.0" prefWidth="131.0" text="Categoria" />
+                        <Button mnemonicParsing="false" onAction="#ordenarPorTitulo" prefHeight="25.0" prefWidth="133.0" text="Título" />
+                        <Button mnemonicParsing="false" onAction="#ordenarPorZerado" prefHeight="25.0" prefWidth="130.0" text="Zerados" />
                     </items>
                   </ToolBar>
                </top>
